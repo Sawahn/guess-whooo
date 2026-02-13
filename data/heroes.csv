@@ -2191,7 +2191,7 @@ index_character,hero,url,index,index_world
 60,Обито,https://i.pinimg.com/474x/89/d5/bd/89d5bd9b60a52a9ffddf3b60e3142eb7.jpg,2190,39
 61,Рин,https://i.pinimg.com/originals/79/39/67/7939676b4cd1253c6993d07ef26b284c.jpg,2191,39
 1,Дон Кихот,https://i.pinimg.com/1200x/37/aa/99/37aa999b13142736ad261bbf79cd4bac.jpg,2192,40
-2,Мерсо,https://i.pinimg.com/1200x/37/aa/99/37aa999b13142736ad261bbf79cd4bac.jpg,2193,40
+2,Мерсо,https://i.pinimg.com/736x/01/84/3c/01843c0dd5ae0537e2d0e7fbdbb6e687.jpg,2193,40
 3,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2194,40
 4,Рёшу,https://i.pinimg.com/1200x/ff/53/7b/ff537b2e4671af58afbad508331fc729.jpg,2195,40
 5,Ход,https://i.pinimg.com/736x/18/61/ca/1861cad818405dcab0081ee590ea1c55.jpg,2196,40
@@ -2210,10 +2210,54 @@ index_character,hero,url,index,index_world
 18,Слеер,https://i.pinimg.com/736x/82/f5/6d/82f56d2974806e095cb10fe92e57923b.jpg,2209,40
 19,Фауст,https://i.pinimg.com/736x/d1/8b/41/d18b41ab9e27e6193c84d0647a988176.jpg,2210,40
 20,Перси,https://i.pinimg.com/1200x/50/5d/fa/505dfacd87c12e2e527b089571406382.jpg,2211,40
-21,Михаил,https://static.wikia.nocookie.net/id5/images/c/cb/MikhailCorpse.png/revision/latest?cb=20230517001126,2212,40
-22,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2213,40
-23,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2214,40
-24,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2215,40
-25,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2216,40
-26,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2217,40
-27,Грегор,https://i.pinimg.com/736x/6a/ee/2e/6aee2ecf222a42d11fef89f370024335.jpg,2218,40
+21,Михаил,https://i.pinimg.com/736x/9e/af/2d/9eaf2d26da097cf3c98e67aee90e7ebd.jpg,2212,40
+22,Отис,https://i.pinimg.com/736x/ef/88/98/ef8898eb145f9fc07fd58e931a4befbc.jpg,2213,40
+23,Мэтью,https://i.pinimg.com/736x/2b/75/33/2b753390da9816f5c280d91bcb44c137.jpg,2214,40
+24,Нетзач,https://i.pinimg.com/736x/c8/c5/77/c8c577a955c9b4be1d8a9b8ab97db668.jpg,2215,40
+25,Йесод,https://i.pinimg.com/736x/fa/95/b5/fa95b5c1b4efdbfe9f438acaf87c8974.jpg,2216,40
+26,Леди,https://i.pinimg.com/736x/33/96/20/339620386caed8d3c4216870bad79f69.jpg,2217,40
+27,Эрик Картман,https://i.pinimg.com/1200x/6a/9b/a4/6a9ba4a932dce66e86f979a857ddef96.jpg,2218,40
+28,Кайл Брофловски,https://i.pinimg.com/736x/67/4a/67/674a672d0b0f31a309079ff6fb858029.jpg,2219,40
+29,Усаги,https://i.pinimg.com/736x/2f/6a/aa/2f6aaaf86e2099e0b9624369cb16026d.jpg,2220,40
+30,Куриманджу,https://i.pinimg.com/736x/f2/ae/46/f2ae46bf7579117b25832b987cceacbb.jpg,2221,40
+31,Ракко,https://i.pinimg.com/1200x/79/6e/5b/796e5b42d964c7afbdc455a615f5c154.jpg,2222,40
+32,Нишикияма Акира,https://i.pinimg.com/736x/70/b9/bf/70b9bfbdcf47fdb09c8dd05bcfc6e034.jpg,2223,40
+33,Маджима Горо,https://i.pinimg.com/736x/d6/39/8c/d6398c304414c254b574b4f0c92d86f5.jpg,2224,40
+34,Сюн Акияма,https://i.pinimg.com/1200x/1e/de/1b/1ede1beb36d479fef33b7d3e383e8f9b.jpg,2225,40
+35,"Джокер",https://i.pinimg.com/736x/17/d1/49/17d1495204a181b85aeb922a5b267efc.jpg,2226,40
+36,Маргарета Зелле,https://i.pinimg.com/736x/de/84/db/de84dbec4bdc951db833f1ce17cee0fa.jpg,2227,40
+37,Хосе Баден,https://i.pinimg.com/736x/da/12/80/da12809198c40d3d3d919bc23de429dd.jpg,2228,40
+38,Деми Бурбон,https://i.pinimg.com/736x/44/f6/f6/44f6f6c47e7fa72629beac5b74042cc1.jpg,2229,40
+39,Наиб Субедар,https://i.pinimg.com/736x/90/73/17/907317cbdf1dac0e05cdf035ca3128fa.jpg,2230,40
+40,Эзоп Карл,https://i.pinimg.com/1200x/1b/b8/02/1bb802f3c219cca0305d8a67a20f582a.jpg,2231,40
+41,Грейс,https://i.pinimg.com/1200x/30/ec/31/30ec31894e492af7764811241ef9dd44.jpg,2232,40
+42,Орфей Бланш,https://i.pinimg.com/1200x/ff/99/31/ff99312c6b42b012eb5eab1d44461a04.jpg,2233,40
+43,Рицуко Акаги,https://i.pinimg.com/736x/2a/3d/49/2a3d49967b4515161b47adcee7673c63.jpg,2234,40
+44,Синдзи Икари,https://i.pinimg.com/1200x/7a/c8/8d/7ac88d6b6cebd0ac483e82cea1cb87b2.jpg,2235,40
+45,Ахав,https://i.pinimg.com/736x/75/4c/ef/754cef9f0de90eeb1feb28b50c621127.jpg,2236,40
+46,Роланд,https://i.pinimg.com/1200x/14/79/31/14793172da858f556807c0701b561ac9.jpg,2237,40
+47,Данте,https://i.pinimg.com/1200x/f6/8d/98/f68d98440efb0ef32e81fde0771d17cb.jpg,2238,40
+48,Неон Зелёный,https://i.pinimg.com/736x/58/98/d5/5898d59958d73814721d0e1e8c1572d7.jpg,2239,40
+49,Неон Лиловая,https://i.pinimg.com/1200x/7c/c2/7e/7cc27ed621dcd983f96711a9947d57ac.jpg,2240,40
+50,Неон Жёлтый,https://i.pinimg.com/736x/0c/23/24/0c2324ba3cde54b87d3a7bdf55225741.jpg,2241,40
+51,Наоя Зенин,https://i.pinimg.com/736x/bd/4a/01/bd4a017154c6e48a88824414fea2f375.jpg,2242,40
+52,Кирара Хоши,https://i.pinimg.com/1200x/c1/dd/3d/c1dd3d772f5a37124e8e577d320feff3.jpg,2243,40
+53,Хакари Кинджи,https://i.pinimg.com/736x/c1/e5/2f/c1e52f0ca3cf0e5c1a6463d8d24f0583.jpg,2244,40
+54,Махито,https://i.pinimg.com/736x/d0/38/42/d038426dd58f520898d889688d338dc4.jpg,2245,40
+55,Тоджи Фушигуро,https://i.pinimg.com/1200x/05/c7/9c/05c79c1651a754c1a6af13f8f4249125.jpg,2246,40
+56,Хлоя Прайс,https://i.pinimg.com/1200x/f1/8c/d8/f18cd8dca8b0e65d082c048956f7c3de.jpg,2247,40
+57,Кейт Марш,https://i.pinimg.com/1200x/bc/05/b7/bc05b748fbf584d1cdb071592a4220a9.jpg,2248,40
+58,Марк Джефферсон,https://i.pinimg.com/1200x/b2/cb/fb/b2cbfbb20d05932a6922cbbc16dd210b.jpg,2249,40
+59,Мозэс,https://i.pinimg.com/736x/a7/ef/e9/a7efe997487f2bf7b3115b8b856e0fdb.jpg,2250,40
+60,Павел Юдин,https://i.pinimg.com/736x/cd/94/a8/cd94a8ffe805ea0522a1d347675cd9bf.jpg,2251,40
+61,Ле'Гард,https://i.pinimg.com/736x/0e/40/8b/0e408bed5bbb2b159391f5f4b0763aec.jpg,2252,40
+62,Покеткэт,https://i.pinimg.com/736x/25/a6/c0/25a6c0ebd578ea77bad11df27741dd02.jpg,2253,40
+63,Д'арс,https://i.pinimg.com/736x/9b/1f/11/9b1f11ccbe99ae0e18c00eaa55757b9f.jpg,2254,40
+64,Энки Анкариан,https://i.pinimg.com/736x/7b/8f/69/7b8f6911a3dc56ddaa1ff0a291bd0f12.jpg,2255,40
+65,Да'ан,https://i.pinimg.com/1200x/cd/a8/3c/cda83c1e57343b78f35b818e471c136b.jpg,2256,40
+66,Марко,https://i.pinimg.com/736x/90/28/0f/90280fe890aba7516b7c674ca8ed6476.jpg,2257,40
+67,Наз'ра,https://i.pinimg.com/736x/11/d3/8e/11d38e7933647e04615ba8488fd96a70.jpg,2258,40
+68,Оливия,https://i.pinimg.com/736x/c5/6a/2d/c56a2dae7ffa738fdda6dd18d8d12557.jpg,2259,40
+69,Самари,https://i.pinimg.com/736x/d4/a7/8a/d4a78a4f0a204df861a016d8e346a248.jpg,2260,40
+70,Абелла,https://i.pinimg.com/736x/fb/75/69/fb75697591b8dc1a38eb0114d354e2d0.jpg,2261,40
+71,Ворон Истязатель,https://i.pinimg.com/736x/96/06/d1/9606d11af35d239cfba3a0e8e9670c5a.jpg,2262,40
